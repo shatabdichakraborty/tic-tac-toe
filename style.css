@@ -1,5 +1,5 @@
 body{
-	background-color:rgb(167, 108, 245);
+	background-color:rgb(168, 108, 246);
 	
 }
 
@@ -13,7 +13,7 @@ auto template for center alignment
     grid-template-columns: auto auto auto;
     position: absolute;
     left: 40%;
-    top: 20%;
+    top: 21%;
 
 }
 
